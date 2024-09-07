@@ -8,5 +8,6 @@ namespace TP_CAI_2024_G5
 {
     internal class Class1
     {
+        // HOLA COMENTADO
     }
 }
