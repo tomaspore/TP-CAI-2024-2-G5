@@ -16,7 +16,7 @@ namespace TP_CAI_2024_G5
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FrmLogin());
 
            
         }

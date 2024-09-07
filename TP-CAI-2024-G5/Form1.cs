@@ -10,16 +10,36 @@ using System.Windows.Forms;
 
 namespace TP_CAI_2024_G5
 {
-    public partial class Form1 : Form
+    public partial class FrmLogin : Form
     {
-        public Form1()
+        public FrmLogin()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("sdfsd");
+            Validacion validacionUntil = new Validacion();
+
+            string usuario = txtUsuario.Text;
+            string contraseña = txtContraseña.Text;
+
+
+            if (validacionUntil.ValidarVacio(usuario, contraseña))
+            {
+                MessageBox.Show("Debe ingresar un usuario y/o contraseña.");
+
+            }
+            else
+            {
+
+            }
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
