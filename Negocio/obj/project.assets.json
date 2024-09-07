@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\ClassLibrary1\\Datos.csproj",
-      "projectName": "Datos",
-      "projectPath": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\ClassLibrary1\\Datos.csproj",
+      "projectUniqueName": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\Negocio.csproj",
+      "projectName": "Negocio",
+      "projectPath": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\Negocio.csproj",
       "packagesPath": "C:\\Users\\tomas_av2xxcp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tomas_av2xxcp\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\ClassLibrary1\\ClassLibrary1.csproj": {}
+    "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\Negocio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\ClassLibrary1\\ClassLibrary1.csproj": {
+    "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\ClassLibrary1\\ClassLibrary1.csproj",
-        "projectName": "ClassLibrary1",
-        "projectPath": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectUniqueName": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\Negocio.csproj",
+        "projectName": "Negocio",
+        "projectPath": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\Negocio.csproj",
         "packagesPath": "C:\\Users\\tomas_av2xxcp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\ClassLibrary1\\obj\\",
+        "outputPath": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tomas_av2xxcp\\AppData\\Roaming\\NuGet\\NuGet.Config",
