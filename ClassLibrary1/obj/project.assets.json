@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tomas_av2xxcp\\.nuget\\packages\\": {}
+    "C:\\Users\\d78138\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-G5\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectUniqueName": "C:\\Users\\d78138\\Source\\Repos\\TP-CAI-2024-2-G5\\ClassLibrary1\\ClassLibrary1.csproj",
       "projectName": "ClassLibrary1",
-      "projectPath": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-G5\\ClassLibrary1\\ClassLibrary1.csproj",
-      "packagesPath": "C:\\Users\\tomas_av2xxcp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-G5\\ClassLibrary1\\obj\\",
+      "projectPath": "C:\\Users\\d78138\\Source\\Repos\\TP-CAI-2024-2-G5\\ClassLibrary1\\ClassLibrary1.csproj",
+      "packagesPath": "C:\\Users\\d78138\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\d78138\\Source\\Repos\\TP-CAI-2024-2-G5\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tomas_av2xxcp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\d78138\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,11 +40,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -56,17 +51,11 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
