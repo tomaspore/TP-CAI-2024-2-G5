@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\d78138\\Source\\Repos\\TP-CAI-2024-2-G5\\ClassLibrary1\\ClassLibrary1.csproj": {}
+    "C:\\Users\\d78138\\source\\repos\\TP-CAI-2024-2-G5\\ClassLibrary1\\ClassLibrary1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\d78138\\Source\\Repos\\TP-CAI-2024-2-G5\\ClassLibrary1\\ClassLibrary1.csproj": {
+    "C:\\Users\\d78138\\source\\repos\\TP-CAI-2024-2-G5\\ClassLibrary1\\ClassLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\d78138\\Source\\Repos\\TP-CAI-2024-2-G5\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectUniqueName": "C:\\Users\\d78138\\source\\repos\\TP-CAI-2024-2-G5\\ClassLibrary1\\ClassLibrary1.csproj",
         "projectName": "ClassLibrary1",
-        "projectPath": "C:\\Users\\d78138\\Source\\Repos\\TP-CAI-2024-2-G5\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectPath": "C:\\Users\\d78138\\source\\repos\\TP-CAI-2024-2-G5\\ClassLibrary1\\ClassLibrary1.csproj",
         "packagesPath": "C:\\Users\\d78138\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\d78138\\Source\\Repos\\TP-CAI-2024-2-G5\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
