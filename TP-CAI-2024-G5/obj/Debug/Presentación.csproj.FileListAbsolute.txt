@@ -19,3 +19,14 @@ C:\Users\tomas_av2xxcp\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debu
 C:\Users\tomas_av2xxcp\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\TP-CAI-2024-G5.exe
 C:\Users\tomas_av2xxcp\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\TP-CAI-2024-G5.pdb
 C:\Users\tomas_av2xxcp\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\TP_CAI_2024_G5.FrmRegistro.resources
+C:\Users\Ludmila\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\bin\Debug\TP-CAI-2024-G5.exe.config
+C:\Users\Ludmila\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\bin\Debug\TP-CAI-2024-G5.exe
+C:\Users\Ludmila\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\bin\Debug\TP-CAI-2024-G5.pdb
+C:\Users\Ludmila\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\Presentación.csproj.AssemblyReference.cache
+C:\Users\Ludmila\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\TP_CAI_2024_G5.FrmLogin.resources
+C:\Users\Ludmila\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\TP_CAI_2024_G5.Properties.Resources.resources
+C:\Users\Ludmila\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\TP_CAI_2024_G5.FrmRegistro.resources
+C:\Users\Ludmila\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\Presentación.csproj.GenerateResource.cache
+C:\Users\Ludmila\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
+C:\Users\Ludmila\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\TP-CAI-2024-G5.exe
+C:\Users\Ludmila\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\TP-CAI-2024-G5.pdb

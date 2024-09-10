@@ -15,6 +15,7 @@ namespace TP_CAI_2024_G5
         public FrmLogin()
         {
             InitializeComponent();
+            //hola como estas
             
         }
 
