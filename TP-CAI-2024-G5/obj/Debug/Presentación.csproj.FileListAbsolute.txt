@@ -8,3 +8,13 @@ C:\Facultad\2DO CUATRIMESTRE - 2024\CAI-Bertagnoli\Ejercicios\TP-GRUPAL\TP-CAI-2
 C:\Facultad\2DO CUATRIMESTRE - 2024\CAI-Bertagnoli\Ejercicios\TP-GRUPAL\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
 C:\Facultad\2DO CUATRIMESTRE - 2024\CAI-Bertagnoli\Ejercicios\TP-GRUPAL\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\TP-CAI-2024-G5.exe
 C:\Facultad\2DO CUATRIMESTRE - 2024\CAI-Bertagnoli\Ejercicios\TP-GRUPAL\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\TP-CAI-2024-G5.pdb
+C:\Users\tomas_av2xxcp\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\bin\Debug\TP-CAI-2024-G5.exe.config
+C:\Users\tomas_av2xxcp\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\bin\Debug\TP-CAI-2024-G5.exe
+C:\Users\tomas_av2xxcp\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\bin\Debug\TP-CAI-2024-G5.pdb
+C:\Users\tomas_av2xxcp\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\Presentación.csproj.AssemblyReference.cache
+C:\Users\tomas_av2xxcp\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\TP_CAI_2024_G5.FrmLogin.resources
+C:\Users\tomas_av2xxcp\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\TP_CAI_2024_G5.Properties.Resources.resources
+C:\Users\tomas_av2xxcp\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\Presentación.csproj.GenerateResource.cache
+C:\Users\tomas_av2xxcp\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
+C:\Users\tomas_av2xxcp\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\TP-CAI-2024-G5.exe
+C:\Users\tomas_av2xxcp\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\TP-CAI-2024-G5.pdb

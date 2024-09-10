@@ -27,6 +27,8 @@ namespace TP_CAI_2024_G5
 
         public bool ValidarVacio(string texto1, string texto2)
         {
+            int intentos;
+
             if (string.IsNullOrEmpty(texto1) && string.IsNullOrEmpty(texto2))
             {
                 

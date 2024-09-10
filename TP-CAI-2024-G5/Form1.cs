@@ -15,29 +15,52 @@ namespace TP_CAI_2024_G5
         public FrmLogin()
         {
             InitializeComponent();
+            
         }
+
+        private int intentos; //Temporalmente la variable intentos va a estar acá
 
         private void button1_Click(object sender, EventArgs e)
         {
             Validacion validacionUntil = new Validacion();
+            string usuario = "";
+            string contraseña = "";
 
-            string usuario = txtUsuario.Text;
-            string contraseña = txtContraseña.Text;
+            usuario = txtUsuario.Text;
+            contraseña = txtContraseña.Text;
+
+           if (validacionUntil.ValidarVacio(usuario, contraseña))
+           {
+                 MessageBox.Show("Debe ingresar un usuario y/o contraseña.");
+                 intentos++;
+           }
+           else
+           {
+               intentos = 0;
+           }
 
 
-            if (validacionUntil.ValidarVacio(usuario, contraseña))
-            {
-                MessageBox.Show("Debe ingresar un usuario y/o contraseña.");
+           if (intentos == 3)
+           {
+                MessageBox.Show("El usuario " + usuario + " pasa a estado INACTIVO. El programa se cerrara.");
+                intentos = 0;
+                this.Close();
+           }
+           else
+           {
+                MessageBox.Show("Bienvenido! " + usuario ); //Acá en un futuro voy a poner el nombre de la persona y no el user
 
-            }
-            else
-            {
 
-            }
+           }
 
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click_1(object sender, EventArgs e)
         {
 
         }
