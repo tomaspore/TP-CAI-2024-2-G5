@@ -33,13 +33,12 @@
             this.txtContraseña = new System.Windows.Forms.TextBox();
             this.lblUsuario = new System.Windows.Forms.Label();
             this.lblContraseña = new System.Windows.Forms.Label();
-            this.btnRegistro = new System.Windows.Forms.Button();
             this.lblTitulo = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnAcceso
             // 
-            this.btnAcceso.Location = new System.Drawing.Point(162, 174);
+            this.btnAcceso.Location = new System.Drawing.Point(138, 176);
             this.btnAcceso.Name = "btnAcceso";
             this.btnAcceso.Size = new System.Drawing.Size(100, 23);
             this.btnAcceso.TabIndex = 0;
@@ -80,15 +79,6 @@
             this.lblContraseña.TabIndex = 4;
             this.lblContraseña.Text = "Contraseña";
             // 
-            // btnRegistro
-            // 
-            this.btnRegistro.Location = new System.Drawing.Point(55, 174);
-            this.btnRegistro.Name = "btnRegistro";
-            this.btnRegistro.Size = new System.Drawing.Size(82, 23);
-            this.btnRegistro.TabIndex = 5;
-            this.btnRegistro.Text = "Registrarse";
-            this.btnRegistro.UseVisualStyleBackColor = true;
-            // 
             // lblTitulo
             // 
             this.lblTitulo.AutoSize = true;
@@ -107,7 +97,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(320, 223);
             this.Controls.Add(this.lblTitulo);
-            this.Controls.Add(this.btnRegistro);
             this.Controls.Add(this.lblContraseña);
             this.Controls.Add(this.lblUsuario);
             this.Controls.Add(this.txtContraseña);
@@ -127,7 +116,6 @@
         private System.Windows.Forms.TextBox txtContraseña;
         private System.Windows.Forms.Label lblUsuario;
         private System.Windows.Forms.Label lblContraseña;
-        private System.Windows.Forms.Button btnRegistro;
         private System.Windows.Forms.Label lblTitulo;
     }
 }

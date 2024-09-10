@@ -46,10 +46,14 @@ namespace TP_CAI_2024_G5
                 intentos = 0;
                 this.Close();
            }
-           else
+           else if (intentos == 0)
            {
                 MessageBox.Show("Bienvenido! " + usuario ); //Acá en un futuro voy a poner el nombre de la persona y no el user
 
+                FrmRegistro registro = new FrmRegistro();
+
+                registro.Show();
+                
 
            }
 
