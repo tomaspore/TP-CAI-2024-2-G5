@@ -33,12 +33,12 @@
             this.txtContraseña = new System.Windows.Forms.TextBox();
             this.lblUsuario = new System.Windows.Forms.Label();
             this.lblContraseña = new System.Windows.Forms.Label();
-            this.btnRegistro = new System.Windows.Forms.Button();
+            this.lblTitulo = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnAcceso
             // 
-            this.btnAcceso.Location = new System.Drawing.Point(172, 111);
+            this.btnAcceso.Location = new System.Drawing.Point(138, 176);
             this.btnAcceso.Name = "btnAcceso";
             this.btnAcceso.Size = new System.Drawing.Size(100, 23);
             this.btnAcceso.TabIndex = 0;
@@ -48,22 +48,22 @@
             // 
             // txtUsuario
             // 
-            this.txtUsuario.Location = new System.Drawing.Point(172, 18);
+            this.txtUsuario.Location = new System.Drawing.Point(122, 81);
             this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(100, 20);
+            this.txtUsuario.Size = new System.Drawing.Size(140, 20);
             this.txtUsuario.TabIndex = 1;
             // 
             // txtContraseña
             // 
-            this.txtContraseña.Location = new System.Drawing.Point(172, 67);
+            this.txtContraseña.Location = new System.Drawing.Point(122, 130);
             this.txtContraseña.Name = "txtContraseña";
-            this.txtContraseña.Size = new System.Drawing.Size(100, 20);
+            this.txtContraseña.Size = new System.Drawing.Size(140, 20);
             this.txtContraseña.TabIndex = 2;
             // 
             // lblUsuario
             // 
             this.lblUsuario.AutoSize = true;
-            this.lblUsuario.Location = new System.Drawing.Point(38, 25);
+            this.lblUsuario.Location = new System.Drawing.Point(37, 84);
             this.lblUsuario.Name = "lblUsuario";
             this.lblUsuario.Size = new System.Drawing.Size(43, 13);
             this.lblUsuario.TabIndex = 3;
@@ -73,27 +73,30 @@
             // lblContraseña
             // 
             this.lblContraseña.AutoSize = true;
-            this.lblContraseña.Location = new System.Drawing.Point(38, 74);
+            this.lblContraseña.Location = new System.Drawing.Point(32, 133);
             this.lblContraseña.Name = "lblContraseña";
             this.lblContraseña.Size = new System.Drawing.Size(61, 13);
             this.lblContraseña.TabIndex = 4;
             this.lblContraseña.Text = "Contraseña";
             // 
-            // btnRegistro
+            // lblTitulo
             // 
-            this.btnRegistro.Location = new System.Drawing.Point(41, 111);
-            this.btnRegistro.Name = "btnRegistro";
-            this.btnRegistro.Size = new System.Drawing.Size(82, 23);
-            this.btnRegistro.TabIndex = 5;
-            this.btnRegistro.Text = "Registrarse";
-            this.btnRegistro.UseVisualStyleBackColor = true;
+            this.lblTitulo.AutoSize = true;
+            this.lblTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold);
+            this.lblTitulo.Location = new System.Drawing.Point(52, 20);
+            this.lblTitulo.Name = "lblTitulo";
+            this.lblTitulo.Size = new System.Drawing.Size(210, 17);
+            this.lblTitulo.TabIndex = 6;
+            this.lblTitulo.Text = "¡Bienvenido a ElectroHogar!";
+            this.lblTitulo.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.lblTitulo.Click += new System.EventHandler(this.label1_Click_1);
             // 
             // FrmLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(317, 196);
-            this.Controls.Add(this.btnRegistro);
+            this.ClientSize = new System.Drawing.Size(320, 223);
+            this.Controls.Add(this.lblTitulo);
             this.Controls.Add(this.lblContraseña);
             this.Controls.Add(this.lblUsuario);
             this.Controls.Add(this.txtContraseña);
@@ -113,7 +116,7 @@
         private System.Windows.Forms.TextBox txtContraseña;
         private System.Windows.Forms.Label lblUsuario;
         private System.Windows.Forms.Label lblContraseña;
-        private System.Windows.Forms.Button btnRegistro;
+        private System.Windows.Forms.Label lblTitulo;
     }
 }
 
