@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ludmila\\.nuget\\packages\\": {}
+    "C:\\Users\\talberio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ludmila\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\Negocio.csproj",
+      "projectUniqueName": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\Negocio.csproj",
       "projectName": "Negocio",
-      "projectPath": "C:\\Users\\Ludmila\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\Negocio.csproj",
-      "packagesPath": "C:\\Users\\Ludmila\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ludmila\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\obj\\",
+      "projectPath": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\Negocio.csproj",
+      "packagesPath": "C:\\Users\\talberio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ludmila\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\talberio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

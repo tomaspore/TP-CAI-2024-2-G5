@@ -1,8 +1,8 @@
-﻿namespace Negocio
+﻿namespace Negocio.Utils
 {
     public class Class1
     {
 
-        
+
     }
 }
