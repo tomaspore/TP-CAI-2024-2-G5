@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\talberio\\.nuget\\packages\\": {}
+    "C:\\Users\\tomas_av2xxcp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Persistencia\\Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Persistencia\\Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Persistencia\\Persistencia.csproj",
-      "packagesPath": "C:\\Users\\talberio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Persistencia\\obj\\",
+      "projectPath": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Persistencia\\Persistencia.csproj",
+      "packagesPath": "C:\\Users\\tomas_av2xxcp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\talberio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tomas_av2xxcp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
