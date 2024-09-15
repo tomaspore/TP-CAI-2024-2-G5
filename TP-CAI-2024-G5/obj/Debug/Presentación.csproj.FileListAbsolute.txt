@@ -41,3 +41,4 @@ C:\Users\talberio\OneDrive - Avaya\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024
 C:\Users\talberio\OneDrive - Avaya\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
 C:\Users\talberio\OneDrive - Avaya\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\TP-CAI-2024-G5.exe
 C:\Users\talberio\OneDrive - Avaya\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\TP-CAI-2024-G5.pdb
+C:\Users\talberio\OneDrive - Avaya\Documents\GitHub\TP-CAI-2024-2-G5\TP-CAI-2024-G5\obj\Debug\TP_CAI_2024_G5.Forms.FrmMenuAdmin.resources

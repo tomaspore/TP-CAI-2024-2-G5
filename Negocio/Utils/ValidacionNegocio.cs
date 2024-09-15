@@ -1,6 +1,6 @@
 ﻿namespace Negocio.Utils
 {
-    public class Class1
+    public class ValidacionNegocio
     {
 
 
