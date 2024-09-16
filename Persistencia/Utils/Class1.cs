@@ -1,8 +1,7 @@
-﻿namespace Negocio
+﻿namespace Persistencia.Utils
 {
     public class Class1
     {
 
-        
     }
 }

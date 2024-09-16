@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using TP_CAI_2024_G5.Forms;
 
 namespace TP_CAI_2024_G5
 {
@@ -51,9 +52,10 @@ namespace TP_CAI_2024_G5
            {
                 MessageBox.Show("Bienvenido! " + usuario ); //Acá en un futuro voy a poner el nombre de la persona y no el user
 
-                FrmRegistro registro = new FrmRegistro();
+                FrmMenuAdmin menuadmin = new FrmMenuAdmin();
+                //Se debería abrir el menu correspondiente al id usuario
 
-                registro.Show();
+                menuadmin.Show();
                 
 
            }
