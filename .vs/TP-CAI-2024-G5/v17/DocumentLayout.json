@@ -1,21 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\",
+  "WorkspaceRootPath": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|c:\\users\\tomas_av2xxcp\\documents\\github\\tp-cai-2024-2-g5\\tp-cai-2024-g5\\forms\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C514B06A-3002-4457-8EE7-1D2329508F23}|Negocio\\Negocio.csproj|c:\\facultad\\2do cuatrimestre - 2024\\cai-bertagnoli\\ejercicios\\tp-grupal\\tp-cai-2024-2-g5\\negocio\\utils\\validacionnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C514B06A-3002-4457-8EE7-1D2329508F23}|Negocio\\Negocio.csproj|solutionrelative:negocio\\utils\\validacionnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E96334-069C-4FDD-9E61-14491C68E7C7}|Datos\\Datos.csproj|c:\\facultad\\2do cuatrimestre - 2024\\cai-bertagnoli\\ejercicios\\tp-grupal\\tp-cai-2024-2-g5\\datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E96334-069C-4FDD-9E61-14491C68E7C7}|Datos\\Datos.csproj|solutionrelative:datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E96334-069C-4FDD-9E61-14491C68E7C7}|Datos\\Datos.csproj|c:\\facultad\\2do cuatrimestre - 2024\\cai-bertagnoli\\ejercicios\\tp-grupal\\tp-cai-2024-2-g5\\datos\\datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95E96334-069C-4FDD-9E61-14491C68E7C7}|Datos\\Datos.csproj|solutionrelative:datos\\datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA3CE6E-CA98-4192-AC9B-B6C0E2AB0985}|Persistencia\\Persistencia.csproj|c:\\facultad\\2do cuatrimestre - 2024\\cai-bertagnoli\\ejercicios\\tp-grupal\\tp-cai-2024-2-g5\\persistencia\\persistencia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CA3CE6E-CA98-4192-AC9B-B6C0E2AB0985}|Persistencia\\Persistencia.csproj|solutionrelative:persistencia\\persistencia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C514B06A-3002-4457-8EE7-1D2329508F23}|Negocio\\Negocio.csproj|c:\\facultad\\2do cuatrimestre - 2024\\cai-bertagnoli\\ejercicios\\tp-grupal\\tp-cai-2024-2-g5\\negocio\\negocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C514B06A-3002-4457-8EE7-1D2329508F23}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|c:\\facultad\\2do cuatrimestre - 2024\\cai-bertagnoli\\ejercicios\\tp-grupal\\tp-cai-2024-2-g5\\tp-cai-2024-g5\\forms\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|solutionrelative:tp-cai-2024-g5\\forms\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\tp-cai-2024-g5\\forms\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\tp-cai-2024-g5\\forms\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|solutionrelative:tp-cai-2024-g5\\forms\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\tp-cai-2024-g5\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\tp-cai-2024-g5\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|solutionrelative:tp-cai-2024-g5\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\tp-cai-2024-g5\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\tp-cai-2024-g5\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|solutionrelative:tp-cai-2024-g5\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,39 +46,117 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\Datos\\Class1.cs",
+              "RelativeDocumentMoniker": "Datos\\Class1.cs",
+              "ToolTip": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\Datos\\Class1.cs",
+              "RelativeToolTip": "Datos\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:27:27.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Datos",
+              "DocumentMoniker": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\Datos\\Datos.csproj",
+              "RelativeDocumentMoniker": "Datos\\Datos.csproj",
+              "ToolTip": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\Datos\\Datos.csproj",
+              "RelativeToolTip": "Datos\\Datos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T00:27:24.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persistencia",
+              "DocumentMoniker": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\Persistencia\\Persistencia.csproj",
+              "RelativeDocumentMoniker": "Persistencia\\Persistencia.csproj",
+              "ToolTip": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\Persistencia\\Persistencia.csproj",
+              "RelativeToolTip": "Persistencia\\Persistencia.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T00:27:21.28Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ValidacionNegocio.cs",
+              "DocumentMoniker": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\Negocio\\Utils\\ValidacionNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Utils\\ValidacionNegocio.cs",
+              "ToolTip": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\Negocio\\Utils\\ValidacionNegocio.cs",
+              "RelativeToolTip": "Negocio\\Utils\\ValidacionNegocio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:01:09.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Negocio",
+              "DocumentMoniker": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\Negocio\\Negocio.csproj",
+              "RelativeDocumentMoniker": "Negocio\\Negocio.csproj",
+              "ToolTip": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\Negocio\\Negocio.csproj",
+              "RelativeToolTip": "Negocio\\Negocio.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T00:01:05.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MenuAdmin.cs",
-              "DocumentMoniker": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
+              "DocumentMoniker": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
               "RelativeDocumentMoniker": "TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
-              "ToolTip": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
+              "ToolTip": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
               "RelativeToolTip": "TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T01:02:46.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MenuAdmin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
+              "DocumentIndex": 6,
+              "Title": "MenuAdmin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
               "RelativeDocumentMoniker": "TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
-              "ToolTip": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs [Design]",
+              "ToolTip": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP-CAI-2024-G5\\Forms\\MenuAdmin.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T01:00:01.882Z"
+              "WhenOpened": "2024-09-15T01:00:01.882Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\Login.cs",
+              "DocumentMoniker": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\Login.cs",
               "RelativeDocumentMoniker": "TP-CAI-2024-G5\\Forms\\Login.cs",
-              "ToolTip": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\Login.cs",
+              "ToolTip": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\Login.cs",
               "RelativeToolTip": "TP-CAI-2024-G5\\Forms\\Login.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,12 +164,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\Login.cs",
+              "DocumentMoniker": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\TP-GRUPAL\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\Login.cs",
               "RelativeDocumentMoniker": "TP-CAI-2024-G5\\Forms\\Login.cs",
               "ToolTip": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\Login.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T00:48:49.29Z"
             }
