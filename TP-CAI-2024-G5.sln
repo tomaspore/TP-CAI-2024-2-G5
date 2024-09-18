@@ -1,15 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.11.35219.272
+VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentación", "TP-CAI-2024-G5\Presentación.csproj", "{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "TemplateTPIntegrador\Presentacion.csproj", "{FBB76CE5-28CB-4176-942F-9773F50FF7A8}"
 EndProject
+<<<<<<< Updated upstream
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Negocio", "Negocio\Negocio.csproj", "{C514B06A-3002-4457-8EE7-1D2329508F23}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{9CA3CE6E-CA98-4192-AC9B-B6C0E2AB0985}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{95E96334-069C-4FDD-9E61-14491C68E7C7}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{C45177FE-6854-49E9-AA70-13FD2CDE1F69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{6E0D8FE3-7EAA-45B0-A363-D14D2CB1FCE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{D70D39DA-312D-45DA-A378-FD222EC9672F}"
+>>>>>>> Stashed changes
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +25,7 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< Updated upstream
 		{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,11 +42,29 @@ Global
 		{95E96334-069C-4FDD-9E61-14491C68E7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95E96334-069C-4FDD-9E61-14491C68E7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95E96334-069C-4FDD-9E61-14491C68E7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{FBB76CE5-28CB-4176-942F-9773F50FF7A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB76CE5-28CB-4176-942F-9773F50FF7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB76CE5-28CB-4176-942F-9773F50FF7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB76CE5-28CB-4176-942F-9773F50FF7A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C45177FE-6854-49E9-AA70-13FD2CDE1F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45177FE-6854-49E9-AA70-13FD2CDE1F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45177FE-6854-49E9-AA70-13FD2CDE1F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45177FE-6854-49E9-AA70-13FD2CDE1F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0D8FE3-7EAA-45B0-A363-D14D2CB1FCE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0D8FE3-7EAA-45B0-A363-D14D2CB1FCE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0D8FE3-7EAA-45B0-A363-D14D2CB1FCE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0D8FE3-7EAA-45B0-A363-D14D2CB1FCE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D70D39DA-312D-45DA-A378-FD222EC9672F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70D39DA-312D-45DA-A378-FD222EC9672F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70D39DA-312D-45DA-A378-FD222EC9672F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70D39DA-312D-45DA-A378-FD222EC9672F}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> Stashed changes
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {870DE327-9EC4-4CB0-ABB8-9FF088AD180D}
+		SolutionGuid = {42BB2522-C66A-4DAC-B7A1-637C1F39D21E}
 	EndGlobalSection
 EndGlobal
