@@ -60,6 +60,9 @@ namespace TP_CAI_2024_G5
 
            }
 
+            LoginNegocio loginNegocio = new LoginNegocio();
+
+
         }
 
         private void label1_Click(object sender, EventArgs e)

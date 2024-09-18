@@ -10,4 +10,9 @@
     <Folder Include="Other\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Datos\Datos.csproj" />
+    <ProjectReference Include="..\Persistencia\Persistencia.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\",
+  "WorkspaceRootPath": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|c:\\users\\tomas_av2xxcp\\documents\\github\\tp-cai-2024-2-g5\\tp-cai-2024-g5\\forms\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|solutionrelative:tp-cai-2024-g5\\forms\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\tp-cai-2024-g5\\forms\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|solutionrelative:tp-cai-2024-g5\\forms\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\tp-cai-2024-g5\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\tp-cai-2024-g5\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|solutionrelative:tp-cai-2024-g5\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\tp-cai-2024-g5\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\tp-cai-2024-g5\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|solutionrelative:tp-cai-2024-g5\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C514B06A-3002-4457-8EE7-1D2329508F23}|Negocio\\Negocio.csproj|c:\\users\\talberio\\onedrive - avaya\\documents\\github\\tp-cai-2024-2-g5\\negocio\\negocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C514B06A-3002-4457-8EE7-1D2329508F23}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C514B06A-3002-4457-8EE7-1D2329508F23}|Negocio\\Negocio.csproj|c:\\users\\talberio\\onedrive - avaya\\documents\\github\\tp-cai-2024-2-g5\\negocio\\loginnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C514B06A-3002-4457-8EE7-1D2329508F23}|Negocio\\Negocio.csproj|solutionrelative:negocio\\loginnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|c:\\users\\talberio\\onedrive - avaya\\documents\\github\\tp-cai-2024-2-g5\\tp-cai-2024-g5\\forms\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|solutionrelative:tp-cai-2024-g5\\forms\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\tp-cai-2024-g5\\forms\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA45BBFD-CF72-45B4-9977-1FEE807A62A6}|TP-CAI-2024-G5\\Presentaci\u00F3n.csproj|solutionrelative:tp-cai-2024-g5\\forms\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,54 +34,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Negocio",
+              "DocumentMoniker": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\Negocio.csproj",
+              "RelativeDocumentMoniker": "Negocio\\Negocio.csproj",
+              "ToolTip": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\Negocio.csproj",
+              "RelativeToolTip": "Negocio\\Negocio.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T01:40:36.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\LoginNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\LoginNegocio.cs",
+              "ToolTip": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\Negocio\\LoginNegocio.cs",
+              "RelativeToolTip": "Negocio\\LoginNegocio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:38:50.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MenuAdmin.cs",
-              "DocumentMoniker": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
               "RelativeDocumentMoniker": "TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
-              "ToolTip": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
+              "ToolTip": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
               "RelativeToolTip": "TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T01:02:46.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MenuAdmin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
-              "RelativeDocumentMoniker": "TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
-              "ToolTip": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T01:00:01.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\Login.cs",
               "RelativeDocumentMoniker": "TP-CAI-2024-G5\\Forms\\Login.cs",
-              "ToolTip": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\Login.cs",
+              "ToolTip": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\Login.cs",
               "RelativeToolTip": "TP-CAI-2024-G5\\Forms\\Login.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAwAAAABAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T00:48:57.921Z"
+              "WhenOpened": "2024-09-15T00:48:57.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tomas_av2xxcp\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\Login.cs",
               "RelativeDocumentMoniker": "TP-CAI-2024-G5\\Forms\\Login.cs",
               "ToolTip": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\Login.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\Login.cs [Design]",
+              "RelativeToolTip": "TP-CAI-2024-G5\\Forms\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T00:48:49.29Z"
+              "WhenOpened": "2024-09-15T00:48:49.29Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
+              "RelativeDocumentMoniker": "TP-CAI-2024-G5\\Forms\\MenuAdmin.cs",
+              "ToolTip": "C:\\Users\\talberio\\OneDrive - Avaya\\Documents\\GitHub\\TP-CAI-2024-2-G5\\TP-CAI-2024-G5\\Forms\\MenuAdmin.cs [Design]",
+              "RelativeToolTip": "TP-CAI-2024-G5\\Forms\\MenuAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T01:00:01.882Z"
             }
           ]
         }
